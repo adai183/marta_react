@@ -6,7 +6,7 @@ var Main = React.createClass({
     return (
       <div className='main-container'>
 
-        <header>
+        <header className="container-fluid">
 			<nav>
 				<div className="logo">
 					<div className="title">
